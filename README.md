@@ -1,3 +1,1 @@
-# gtadynamic
-[GTA]Dynamic
-test
+# [GTA]Dynamic
