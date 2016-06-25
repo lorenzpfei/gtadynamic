@@ -1,0 +1,176 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:23:40] filterscripts = ""  (string)
+[11:23:40] 
+[11:23:40] Server Plugins
+[11:23:40] --------------
+[11:23:40]  Loading plugin: mysql
+[11:23:40] 
+
+  > MySQL plugin R5 successfully loaded.
+
+[11:23:40]   Loaded.
+[11:23:40]  Loading plugin: sscanf
+[11:23:40] 
+
+[11:23:40]  ===============================
+
+[11:23:40]       sscanf plugin loaded.     
+
+[11:23:40]          Version:  2.8.1        
+
+[11:23:40]    (c) 2012 Alex "Y_Less" Cole  
+
+[11:23:40]  ===============================
+
+[11:23:40]   Loaded.
+[11:23:40]  Loading plugin: iTD
+[11:23:40] 
+* iTD Plugin loaded. (Support for textdraw editor mouse/keyboard)
+
+[11:23:40]   Loaded.
+[11:23:40]  Loading plugin: streamer
+[11:23:40] 
+
+*** Streamer Plugin v2.7.2 by Incognito loaded ***
+
+[11:23:40]   Loaded.
+[11:23:40]  Loading plugin: crashdetect
+[11:23:40]   CrashDetect v4.13.1 is OK.
+[11:23:40]   Loaded.
+[11:23:40]  Loaded 5 plugins.
+
+[11:23:40] 
+[11:23:40] Filterscripts
+[11:23:40] ---------------
+[11:23:40]   Loaded 0 filterscripts.
+
+[11:23:40] <-| [MYSQL] Verbindung zur Datenbank wurde erfolgreich hergestellt!
+[11:23:40] 
+=====================================================
+[11:23:40] ==                                                 ==
+[11:23:40] ==                 DYNAMIC ROLEPLAY                ==
+[11:23:40] ==                                                 ==
+[11:23:40] ==                   BY ELDIABOLO                  ==
+[11:23:40] ==                   BY  BUBELBUB                  ==
+[11:23:40] ==                                                 ==
+[11:23:40] ==                    Version 0.5                  ==
+[11:23:40] ==                                                 ==
+[11:23:40] =====================================================
+[11:23:40] hiaaaa
+[11:23:40] [Start - BOTS]Seppl is hier :)
+[11:23:40] [START] Wetter geladen. [12]
+[11:23:40] [START] Enters geladen. [15]
+[11:23:40] [START] Vehgates geladen. [1]
+[11:23:40] [START] Dutypoints geladen. [2]
+[11:23:40] [START] Infopoints geladen. [1]
+[11:23:40] [START] Häuser geladen. [13]
+[11:23:40] [START] Bizzes geladen. [21]
+[11:23:40] [START] Fahrzeuge geladen. [0]
+[11:23:40] [START] Gangzonen geladen. [2]
+[11:23:40] [START] ATMs geladen. [1]
+[11:23:40] [START] BeweglicheTore geladen. [21]
+[11:23:40] [START] Autohaus geladen.
+[11:23:40] [START] HITMAN BASE GELADEN
+[11:23:40] [START] FLUGZEUGTRÄGER GELADEN
+[11:23:40] [START] Cest la Vie geladen
+[11:23:40] [START] Tuningzeug geladen
+[11:23:40] [START] Spawn geladen.
+[11:23:40] [START] Paintball geladen.
+[11:23:40] [START] ======== MAPS GELADEN ========
+[11:23:40] [START] Textdraw geladen.
+[11:23:40] Number of vehicle models: 0
+[11:23:40] [connection] 127.0.0.1:53351 requests connection cookie.
+[11:23:41] [connection] incoming connection: 127.0.0.1:53351 id: 0
+[11:23:41] [npc:join] [DYN]Wurzel_Sepp has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:34:13] filterscripts = ""  (string)
+[11:34:13] 
+[11:34:13] Server Plugins
+[11:34:13] --------------
+[11:34:13]  Loading plugin: mysql
+[11:34:13] 
+
+  > MySQL plugin R5 successfully loaded.
+
+[11:34:13]   Loaded.
+[11:34:13]  Loading plugin: sscanf
+[11:34:13] 
+
+[11:34:13]  ===============================
+
+[11:34:13]       sscanf plugin loaded.     
+
+[11:34:13]          Version:  2.8.1        
+
+[11:34:13]    (c) 2012 Alex "Y_Less" Cole  
+
+[11:34:13]  ===============================
+
+[11:34:13]   Loaded.
+[11:34:13]  Loading plugin: iTD
+[11:34:13] 
+* iTD Plugin loaded. (Support for textdraw editor mouse/keyboard)
+
+[11:34:13]   Loaded.
+[11:34:13]  Loading plugin: streamer
+[11:34:13] 
+
+*** Streamer Plugin v2.7.2 by Incognito loaded ***
+
+[11:34:13]   Loaded.
+[11:34:13]  Loading plugin: crashdetect
+[11:34:13]   CrashDetect v4.13.1 is OK.
+[11:34:13]   Loaded.
+[11:34:13]  Loaded 5 plugins.
+
+[11:34:13] 
+[11:34:13] Filterscripts
+[11:34:13] ---------------
+[11:34:13]   Loaded 0 filterscripts.
+
+[11:34:13] <-| [MYSQL] Verbindung zur Datenbank wurde erfolgreich hergestellt!
+[11:34:13] 
+=====================================================
+[11:34:13] ==                                                 ==
+[11:34:13] ==                 DYNAMIC ROLEPLAY                ==
+[11:34:13] ==                                                 ==
+[11:34:13] ==                   BY ELDIABOLO                  ==
+[11:34:13] ==                   BY  BUBELBUB                  ==
+[11:34:13] ==                                                 ==
+[11:34:13] ==                    Version 0.5                  ==
+[11:34:13] ==                                                 ==
+[11:34:13] =====================================================
+[11:34:13] hiaaaa
+[11:34:13] [Start - BOTS]Seppl is hier :)
+[11:34:13] [START] Wetter geladen. [0]
+[11:34:13] [START] Enters geladen. [15]
+[11:34:13] [START] Vehgates geladen. [1]
+[11:34:13] [START] Dutypoints geladen. [2]
+[11:34:13] [START] Infopoints geladen. [1]
+[11:34:13] [START] Häuser geladen. [13]
+[11:34:13] [START] Bizzes geladen. [21]
+[11:34:13] [START] Fahrzeuge geladen. [0]
+[11:34:13] [START] Gangzonen geladen. [2]
+[11:34:13] [START] ATMs geladen. [1]
+[11:34:13] [START] BeweglicheTore geladen. [21]
+[11:34:13] [START] Autohaus geladen.
+[11:34:13] [START] ======== MAPS GELADEN ========
+[11:34:13] [START] Textdraw geladen.
+[11:34:13] Number of vehicle models: 0
+[11:34:13] [connection] 127.0.0.1:60002 requests connection cookie.

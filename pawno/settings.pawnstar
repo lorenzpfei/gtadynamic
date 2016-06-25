@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<SettingData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <EditorSettings>
+    <ShowLineNumbers>true</ShowLineNumbers>
+    <RectangularSelection>true</RectangularSelection>
+    <VirtualSpace>false</VirtualSpace>
+    <CutWholeLine>true</CutWholeLine>
+    <EnableLinks>true</EnableLinks>
+    <RequireControlModifierForLinks>true</RequireControlModifierForLinks>
+    <MarkSpace>false</MarkSpace>
+    <MarkBreak>false</MarkBreak>
+    <MarkTabs>false</MarkTabs>
+    <ConvertTabsToSpace>false</ConvertTabsToSpace>
+  </EditorSettings>
+  <FontData>
+    <FontFamily>Courier New</FontFamily>
+    <FontSize>12</FontSize>
+    <FontWeight />
+    <FontStyle />
+  </FontData>
+  <WindowData>
+    <Top>165</Top>
+    <Left>2718</Left>
+    <Height>572</Height>
+    <Width>1122</Width>
+    <State>Maximized</State>
+  </WindowData>
+  <FTPData>
+    <Username />
+    <Password />
+    <Server />
+    <Path />
+    <Save>false</Save>
+  </FTPData>
+  <StandardProgram>false</StandardProgram>
+  <StandardProgramPWN>false</StandardProgramPWN>
+  <StandardProgramINC>false</StandardProgramINC>
+  <FillCurvedBrackets>true</FillCurvedBrackets>
+  <FillSquareBrackets>true</FillSquareBrackets>
+  <FillRoundBrackets>true</FillRoundBrackets>
+  <FillQuotationMarks>true</FillQuotationMarks>
+  <FillSingleQuotationMarks>true</FillSingleQuotationMarks>
+  <AutoSave>false</AutoSave>
+  <AutoSaveTime>60</AutoSaveTime>
+  <CodeAnalyzer>true</CodeAnalyzer>
+  <CodeAnalyzerTime>30</CodeAnalyzerTime>
+  <JumpToStart>false</JumpToStart>
+  <KeepTabs>false</KeepTabs>
+  <UpdateIncludes>false</UpdateIncludes>
+  <UserNote />
+  <TabPaths />
+</SettingData>
